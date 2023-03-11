@@ -1,0 +1,24 @@
+{
+  "name": "matrix-factorization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredrikj31/matrix-factorization.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredrikj31/matrix-factorization/issues"
+  },
+  "homepage": "https://github.com/fredrikj31/matrix-factorization#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
